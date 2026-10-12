@@ -4,4 +4,4 @@
 set -e
 
 apk -U upgrade
-apk add fastfetch htop tree
+apk add borgbackup fastfetch htop tree
